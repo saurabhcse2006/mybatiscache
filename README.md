@@ -1,0 +1,2 @@
+# mybatiscache
+MemcacheCacheForMybatis
